@@ -6,6 +6,10 @@ rensyu siteimasu
 	zzzzz
 	zzzzz
 	zzzzz
+	AAAAA
+	BBBBB
+	CCCCC
+	DDDDD
 
 	11111
 	22222
