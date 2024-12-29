@@ -2,10 +2,10 @@ this is the test text.
 
 my name is test text.
 rensyu siteimasu
-	aaaaa
-	bbbbb
-	ccccc
-	ddddd
+	zzzzz
+	zzzzz
+	zzzzz
+	zzzzz
 
 	11111
 	22222
