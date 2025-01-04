@@ -2,10 +2,6 @@ this is the test text.
 
 my name is test text.
 rensyu siteimasu
-	zzzzz
-	zzzzz
-	zzzzz
-	zzzzz
 	AAAAA
 	BBBBB
 	CCCCC
